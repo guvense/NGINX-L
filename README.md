@@ -1,5 +1,6 @@
 # NGINX-L
-This repo consist of nginx configuration file 
+This repo consist of nginx configuration files
+
 Download source code
 
 Dependecies
